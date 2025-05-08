@@ -1,0 +1,2 @@
+# macos-gas-calendar-runner
+Googleカレンダーの予定をスプレッドシートに時間指定で自動的に出力するGASスクリプト
