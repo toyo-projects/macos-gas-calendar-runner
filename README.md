@@ -38,7 +38,7 @@ run_scripts/
 
 ---
 
-## 🛠 ① 自動実行スクリプトの中身（run_gas.sh）
+## 🛠 ① 自動実行スクリプトの中身（run_gas.shの作成）
 
 以下の内容をコピーして `run_gas.sh` という名前のファイルを作ります：
 
@@ -73,9 +73,9 @@ macOSでは、セキュリティ設定でターミナルに許可を与えない
 
 ---
 
-⏱ Option 1：Mac標準の launchd で自動実行する方法（推奨）
+⏱ Option 1：Mac標準の launchd で上記作成の.shを自動実行する方法（推奨）
 
-📄 スケジュール設定ファイルを作る（run_gas.plist）
+📄 スケジュール設定ファイルを作る（run_gas.plistの作成）
 以下の内容をコピーして run_gas.plist というファイルを作成してください：
 
 <?xml version="1.0" encoding="UTF-8"?>
